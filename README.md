@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaseminDeryaDilli
-- 👀 I’m interested in Data Science and Marketing
+- 👀 I’m interested in Data Science/ Data Analytics / Marketing
 - 🌱 I’m currently learning Machine Learning and AI 
-- 💞️ I’m looking to collaborate on Data Science 
+- 💞️ I’m looking to collaborate on Data Science / Data Analytics 
 - 📫 How to reach me https://www.linkedin.com/in/yaseminderyadilli/ https://yaseminderyadilli.medium.com/ https://www.kaggle.com/yaseminderyadilli
 
 <!---
